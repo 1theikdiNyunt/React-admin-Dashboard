@@ -5,7 +5,9 @@ function App() {
     <div className="App">
       <p>
         In this series we are going to learn building entire dashboard using
-        React & Material design & Vuexy
+        React & Material design & Vuexy 
+        Thank For Watching
+        
       </p>
     </div>
   );
